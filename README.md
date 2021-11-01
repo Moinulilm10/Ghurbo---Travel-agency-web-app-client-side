@@ -1,3 +1,16 @@
+- This simple tourism website build with react and firebase authentication.
+- This contain 5 main route.
+- Two Route are Private Route. They are admin and destination components.
+- User only can protected if he or she has account in this website.
+- Context Api also used in this project.
+- Also have two types firebase authentication , google sign verification.
+
+- github private repo client side link : https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-Moinulilm10
+
+- github private repo server side link : https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-Moinulilm10
+
+- live site link : https://tourism-service-app.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
