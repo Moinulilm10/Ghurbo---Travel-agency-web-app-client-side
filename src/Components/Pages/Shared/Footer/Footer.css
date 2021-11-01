@@ -1,0 +1,31 @@
+.footer-section {
+  background-image: url(https://gico.io/ghurbo/images/background/2.jpg);
+}
+
+.footer {
+  font-family: "Muli", sans-serif;
+  font-size: 14px;
+  color: #777777;
+  line-height: 1.7em;
+  font-weight: 400;
+  background: #ffffff;
+}
+
+.footer {
+  background-color: rgb(255, 241, 111);
+}
+
+.fab {
+  font-size: 33px;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+@media only screen and (max-width: 688px) {
+  .footer {
+    flex-direction: column;
+  }
+}

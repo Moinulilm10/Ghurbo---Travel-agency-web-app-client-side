@@ -1,0 +1,20 @@
+.fas {
+  font-size: 35px;
+}
+
+.process {
+  display: flex;
+  justify-content: space-evenly;
+  border: 2px solid khaki;
+  padding: 10px;
+  margin: 44px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  background-color: rgb(248, 236, 130);
+}
+
+@media only screen and (max-width: 688px) {
+  .process {
+    flex-direction: column;
+  }
+}

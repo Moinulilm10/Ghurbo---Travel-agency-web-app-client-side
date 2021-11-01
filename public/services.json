@@ -1,0 +1,83 @@
+[
+    {
+        "key": 1,
+        "name": "Wow-Maldives",
+        "destination": "Maldives",
+        "price": "50000",
+        "description": "Many vacationers head to the Maldives solely to relax on the beach – and for good reason. The sugar white sand and striking blue water make for the perfect beach vacation backdrop.",
+        "day": "3 day 2 night",
+        "img": "https://i.ibb.co/3C4wPk4/exotic-maldives-jpg.jpg"
+    },
+    {
+        "key": 2,
+        "name": "Ha long Bay",
+        "destination": "Vietnam",
+        "price": "70000",
+        "description": "Hạ Long Bay, in northeast Vietnam, is known for its emerald waters and thousands of towering limestone islands topped by rainforests. Junk boat tours and sea kayak expeditions take visitors past islands named for their shapes, including Stone Dog and Teapot islets.",
+        "day": "4 day 3 night",
+        "img": "https://i.ibb.co/xJFZ6sf/beautiful-place-ha-long-bay.jpg"
+    },
+    {
+        "key": 3,
+        "name": " Beautiful Dubai",
+        "destination": "Dubai",
+        "price": "70000",
+        "description": "Dubai is one of the most beautiful cities in the world as a result there's an ample amount of traveler influx into the city. Dubai in UAE is known for its skyscrapers, night life, high end hotels",
+        "day": "3 day 2 night",
+        "img": "https://i.ibb.co/M5gcFRN/welcome-dubai.jpg"
+    },
+    {
+        "key": 4,
+        "name": "Eiffel tower",
+        "destination": "parries",
+        "price": "800000",
+        "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower",
+        "day": "3 day 2 night",
+        "img": "https://i.ibb.co/DKb2jzh/eiffel-towerview-jpg.jpg"
+    },
+    {
+        "key": 5,
+        "name": "London sunset",
+        "destination": "London",
+        "price": "500",
+        "day": "3 day 2 night",
+        "description": "London's bridges and the Thames are some of the best places to see a beautiful London sunset. The Thames is quite a windy river particularly in the portion .",
+        "img": "https://i.ibb.co/jhcWVrq/panoramic-view-london-sunset-uk.jpg"
+    },
+    {
+        "key": 6,
+        "name": "Naigara falls",
+        "destination": "Canada",
+        "price": "60000",
+        "day": "3 day 2 night",
+        "description": "Niagara Falls, Ontario, is a Canadian city at the famous waterfalls of the same name, linked with the U.S. by the Rainbow Bridge.Elevators take visitors to a lower, wetter vantage poin",
+        "img": "https://i.ibb.co/JkSzywd/beautiful-view-magnificent-niagra-falls-captured-canada.jpg"
+    },
+    {
+        "key": 7,
+        "name": "Venice",
+        "destination": "Venice City",
+        "price": "60000",
+        "day": "3 day 2 night",
+        "description": "Venice city at the famous waterfalls of the same name, linked with the U.S. by the Rainbow Bridge.  Elevators take visitors to a lower, wetter vantage poin",
+        "img": "https://i.ibb.co/jLX1sPX/Venice.jpg"
+    },
+    {
+        "key": 8,
+        "name": "Catalonia City",
+        "destination": "Catalonia",
+        "price": "60000",
+        "day": "3 day 2 night",
+        "description": "Catalonia city at the famous waterfalls of the same name, linked with the U.S. by the Rainbow Bridge. Elevators take visitors to a lower, wetter vantage poin.",
+        "img": "https://i.ibb.co/c1rS2JS/Catalonia.jpg"
+    },
+    {
+        "key": 9,
+        "name": "Prague",
+        "destination": "Check-Republic",
+        "price": "60000",
+        "day": "3 day 2 night",
+        "description": "Prague city at the famous waterfalls of the same name, linked with the U.S. by the Rainbow Bridge. Elevators take visitors to a lower, wetter vantage poin.",
+        "img": "https://i.ibb.co/kKtqLjy/Prague-city-skyline-and-Charles-Bridge-Prague-Czech-Republic.jpg"
+    }
+]
